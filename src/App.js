@@ -6,7 +6,7 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-       These aren't the droids you're lookign for
+       These aren't the droids you're looking for.
       </div>
     );
   }
