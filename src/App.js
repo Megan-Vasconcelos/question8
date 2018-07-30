@@ -6,7 +6,7 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-       Do or do not, there is no try
+       These aren't the droids you're lookign for
       </div>
     );
   }
